@@ -94,12 +94,88 @@
 
 ---
 
-## 📚 Atualmente estudando
+## 🐍 Minha jornada no GitHub
 
-```text
-JavaScript        ███████████████░░░
-Python            █████████████░░░░░
-React             ████████████░░░░░░
-PHP               ███████████░░░░░░░
-Redes             ██████████████░░░░
-Segurança Web     ██████████░░░░░░░░
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Fabio-S-M-Fernandes/Fabio-S-M-Fernandes/output/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Fabio-S-M-Fernandes/Fabio-S-M-Fernandes/output/github-snake.svg"
+  />
+  <img
+    src="https://raw.githubusercontent.com/Fabio-S-M-Fernandes/Fabio-S-M-Fernandes/output/github-snake.svg"
+    alt="GitHub Contribution Snake"
+  />
+</picture>
+
+</div>
+
+---
+
+## 💻 Codando e aprendendo...
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" alt="Desenvolvedor animado codando" />
+
+</div>
+
+---
+
+## 🚀 Em constante evolução
+
+<div align="center">
+
+💻 JavaScript • 🐍 Python • ⚛️ React • 🐘 PHP • 🗄️ MySQL  
+🌐 Redes • 🔐 Segurança Web • 🐧 Linux • 🔧 Git/GitHub
+
+</div>
+
+---
+
+## 🏆 Projetos e experiências
+
+🚀 **Arboris.X** — Desenvolvimento de componentes e aplicações web.
+
+🌐 **A Origem dos Games** — Projeto web com foco em conteúdo e funcionalidades relacionadas a jogos.
+
+🗄️ **Projetos CRUD com PHP e MySQL** — Aplicações envolvendo cadastro, edição, exclusão e gerenciamento de dados.
+
+🌐 **Projetos de Redes** — Configurações e simulações utilizando conceitos de redes e Cisco Packet Tracer.
+
+💻 **Projetos acadêmicos e pessoais** — Desenvolvimento contínuo de aplicações para colocar meus conhecimentos em prática.
+
+---
+
+## 🎯 Objetivo
+
+> 🚀 Continuar evoluindo na área de tecnologia, desenvolver projetos cada vez mais completos e transformar conhecimento em soluções reais.
+
+---
+
+## 📫 Onde me encontrar
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/fabiosmfernandes-dev/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:fabiosoaresmoreirafernandesbjj@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💻 "Codando, aprendendo e evoluindo todos os dias."
+
+</div>
