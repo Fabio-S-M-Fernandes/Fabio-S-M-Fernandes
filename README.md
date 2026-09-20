@@ -39,15 +39,10 @@
 
 ---
 
-### 🔥 As minhas Estatísticas
+### 💻 Codando e Aprendendo...
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fabio-S-M-Fernandes&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-<br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fabio-S-M-Fernandes&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabio-S-M-Fernandes&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="350" alt="Desenvolvedor animado codando" />
 </div>
 
 ---
