@@ -42,7 +42,7 @@
 ### 💻 Codando e Aprendendo...
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="350" alt="Desenvolvedor animado codando" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" alt="Desenvolvedor animado codando" />
 </div>
 
 ---
@@ -53,7 +53,7 @@
   <a href="https://www.linkedin.com/in/fabiosmfernandes-dev/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:fabiosoaresmoreirafernandesbjj@gmail.com">
+  <a href="mailto:fabiosoaresmoreirafernandesbjj@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
