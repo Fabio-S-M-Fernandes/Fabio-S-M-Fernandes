@@ -4,10 +4,6 @@
   🎓 Estudante de Informática | 💻 Desenvolvedor Full Stack em Formação
 </h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Fabio-S-M-Fernandes&style=for-the-badge&color=blue" alt="Visualizações do perfil" />
-</p>
-
 ---
 
 ## 🚀 Sobre mim
