@@ -31,23 +31,10 @@
 
 ---
 
-### 🔥 As minhas Estatísticas
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fabio-S-M-Fernandes&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-<br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fabio-S-M-Fernandes&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabio-S-M-Fernandes&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
-</div>
-
----
-
 ### 📫 Contactos
 
 <div align="center">
-  <a href="https://linkedin.com/in/fabiofernandes-ti" target="_blank">
+  <a href="https://www.linkedin.com/in/fabiosmfernandes-dev/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:fabiosoaresmoreirafernandesbjj@gmail.com">
