@@ -95,28 +95,6 @@
 
 ---
 
-<p align="center">
-  <strong>Menos</strong>
-  ⬜ 🟩 🟩 🟩 🟩
-  <strong>Mais</strong>
-</p>
-
----
-
-## 💻 Codando e aprendendo...
-
-<div align="center">
-
-<img
-  src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"
-  width="700"
-  alt="Desenvolvedor animado codando"
-/>
-
-</div>
-
----
-
 ## 🚀 Em constante evolução
 
 <div align="center">
