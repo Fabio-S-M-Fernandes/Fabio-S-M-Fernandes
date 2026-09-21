@@ -134,17 +134,6 @@
 
 ---
 
-## 🚀 Em constante evolução
-
-<div align="center">
-
-💻 JavaScript • 🐍 Python • ⚛️ React • 🐘 PHP • 🗄️ MySQL  
-🌐 Redes • 🔐 Segurança Web • 🐧 Linux • 🔧 Git/GitHub
-
-</div>
-
----
-
 ## 🏆 Projetos e experiências
 
 🚀 **Arboris.X** — Desenvolvimento de componentes e aplicações web.
@@ -178,9 +167,6 @@
 </a>
 
 </div>
-
----
-
 <div align="center">
 
 ### 💻 "Codando, aprendendo e evoluindo todos os dias."
