@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, eu sou o Fábio S. M. Fernandes</h1>
 
 <h3 align="center">
-  🎓 Estudante de Informática | 💻 Desenvolvedor Full Stack em Formação
+  🎓 Estudante de Informática | 💻 Desenvolvedor em Formação
 </h3>
 
 <p align="center">
