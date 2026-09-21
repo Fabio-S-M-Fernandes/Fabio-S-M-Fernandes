@@ -114,12 +114,10 @@
 
 <br>
 
-<p>
-  <strong>🐍 Menos contribuições</strong>
-  &nbsp;&nbsp;
-  🟩 🟩 🟩 🟩 🟩
-  &nbsp;&nbsp;
-  <strong>Mais contribuições 🚀</strong>
+<p align="center">
+  <strong>Menos</strong>
+  ⬜ 🟩 🟩 🟩 🟩
+  <strong>Mais</strong>
 </p>
 
 </div>
