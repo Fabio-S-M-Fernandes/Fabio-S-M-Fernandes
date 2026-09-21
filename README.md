@@ -126,12 +126,6 @@ Desenvolvimento contínuo de aplicações para colocar meus conhecimentos em pr�
 
 ---
 
-## 🎯 Objetivo
-
-> 🚀 Continuar evoluindo na área de tecnologia, desenvolver projetos cada vez mais completos e transformar conhecimento em soluções reais.
-
----
-
 ## 🌐 Conecte-se comigo
 
 <p align="center">
