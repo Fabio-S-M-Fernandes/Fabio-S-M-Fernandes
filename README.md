@@ -14,7 +14,7 @@
 
 🎓 Atualmente sou **estudante de Técnico em Informática**, apaixonado por tecnologia e desenvolvimento de software.
 
-💻 Gosto de transformar ideias em projetos reais, explorando desde **desenvolvimento web** até **redes, sistemas operacionais **.
+💻 Gosto de transformar ideias em projetos reais, explorando desde **desenvolvimento web** até **redes, sistemas operacionais.
 
 🌱 Atualmente estou aprofundando meus estudos em:
 
@@ -126,42 +126,24 @@ Desenvolvimento contínuo de aplicações para colocar meus conhecimentos em pr�
 
 ---
 
+---
+
 ## 🌐 Conecte-se comigo
 
 <p align="center">
-
-<a href="https://github.com/Fabio-S-M-Fernandes" target="_blank">
-  <img
-    src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
-    height="40"
-    alt="GitHub"
-  />
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.linkedin.com/in/fabiosmfernandes-dev/" target="_blank">
-  <img
-    src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-    height="40"
-    alt="LinkedIn"
-  />
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="mailto:fabiosoaresmoreirafernandesbjj@gmail.com">
-  <img
-    src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-    height="40"
-    alt="Gmail"
-  />
-</a>
-
+  <a href="https://github.com/Fabio-S-M-Fernandes">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/fabiosmfernandes-dev/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:fabiosoaresmoreirafernandesbjj@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
 </p>
 
 <p align="center">
-  📬 <strong>Entre em contato comigo através do GitHub, LinkedIn ou e-mail.</strong>
+  📬 <i>Entre em contato comigo através das minhas redes.</i>
 </p>
 
 ---
@@ -170,6 +152,6 @@ Desenvolvimento contínuo de aplicações para colocar meus conhecimentos em pr�
 
 ### 💻 Codando • Aprendendo • Evoluindo 🚀
 
-<i>"O futuro é construído linha por linha."</i>
+<i>O futuro é construído linha por linha.</i>
 
 </div>
