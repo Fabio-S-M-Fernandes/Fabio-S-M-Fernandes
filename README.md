@@ -1,5 +1,4 @@
 <h1 align="center">👋 Olá, eu sou o Fábio S. M. Fernandes</h1>
-wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
 <h3 align="center">
   🎓 Estudante de Informática | 💻 Desenvolvedor Full Stack em Formação
 </h3>
@@ -112,6 +111,16 @@ wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
     alt="GitHub Contribution Snake"
   />
 </picture>
+
+<br>
+
+<p>
+  <strong>🐍 Menos contribuições</strong>
+  &nbsp;&nbsp;
+  🟩 🟩 🟩 🟩 🟩
+  &nbsp;&nbsp;
+  <strong>Mais contribuições 🚀</strong>
+</p>
 
 </div>
 
